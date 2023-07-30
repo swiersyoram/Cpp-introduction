@@ -1,0 +1,52 @@
+# C++ compiled output
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# CMake build output
+build/
+cmake-build-debug/
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+CMakeTargets/
+CMakeTmp/
+CTestTestfile.cmake
+Makefile
+cmake_install.cmake
+install_manifest.txt
+Testing/
+
+# Visual Studio Code
+.vscode/
+
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+
+# JetBrains CLion
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Compiled headers
+*.gch
+*.pch
+
+# Dependency directories
+bin/
+lib/
+
+# OS-specific or editor-specific files
+Thumbs.db
+.DS_Store
+*.swp
+*~
+
+# Miscellaneous
+*.log
+*.tmp
